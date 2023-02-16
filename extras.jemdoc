@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{extras.html}
+= Photos
+
+== Photo Gallery  
+Here are some photos! 
+
+\n Nice view of CU.
+~~~
+{}{img_left}{photos/boneyard.jpg}{alt text}{750}{550}
+~~~
+
+\n\n\n Beckman during the snowstorm in Feb 2022. 
+~~~
+{}{img_left}{photos/beckman-snow.jpg}{alt text}{550}{750}
+~~~
+
+\n\n\n My home and cat. 
+~~~
+{}{img_left}{photos/home.jpg}{alt text}{550}{750}
+~~~
+
+
+
+
